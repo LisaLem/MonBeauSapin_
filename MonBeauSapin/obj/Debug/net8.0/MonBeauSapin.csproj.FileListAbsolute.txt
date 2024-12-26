@@ -1,0 +1,14 @@
+C:\Users\lisam\source\repos\MonBeauSapin\MonBeauSapin\bin\Debug\net8.0\MonBeauSapin.exe
+C:\Users\lisam\source\repos\MonBeauSapin\MonBeauSapin\bin\Debug\net8.0\MonBeauSapin.deps.json
+C:\Users\lisam\source\repos\MonBeauSapin\MonBeauSapin\bin\Debug\net8.0\MonBeauSapin.runtimeconfig.json
+C:\Users\lisam\source\repos\MonBeauSapin\MonBeauSapin\bin\Debug\net8.0\MonBeauSapin.dll
+C:\Users\lisam\source\repos\MonBeauSapin\MonBeauSapin\bin\Debug\net8.0\MonBeauSapin.pdb
+C:\Users\lisam\source\repos\MonBeauSapin\MonBeauSapin\obj\Debug\net8.0\MonBeauSapin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisam\source\repos\MonBeauSapin\MonBeauSapin\obj\Debug\net8.0\MonBeauSapin.AssemblyInfoInputs.cache
+C:\Users\lisam\source\repos\MonBeauSapin\MonBeauSapin\obj\Debug\net8.0\MonBeauSapin.AssemblyInfo.cs
+C:\Users\lisam\source\repos\MonBeauSapin\MonBeauSapin\obj\Debug\net8.0\MonBeauSapin.csproj.CoreCompileInputs.cache
+C:\Users\lisam\source\repos\MonBeauSapin\MonBeauSapin\obj\Debug\net8.0\MonBeauSapin.dll
+C:\Users\lisam\source\repos\MonBeauSapin\MonBeauSapin\obj\Debug\net8.0\refint\MonBeauSapin.dll
+C:\Users\lisam\source\repos\MonBeauSapin\MonBeauSapin\obj\Debug\net8.0\MonBeauSapin.pdb
+C:\Users\lisam\source\repos\MonBeauSapin\MonBeauSapin\obj\Debug\net8.0\MonBeauSapin.genruntimeconfig.cache
+C:\Users\lisam\source\repos\MonBeauSapin\MonBeauSapin\obj\Debug\net8.0\ref\MonBeauSapin.dll
